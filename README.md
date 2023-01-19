@@ -14,6 +14,11 @@
 
 ![pagina2](https://user-images.githubusercontent.com/79307110/213555774-1b0a110d-bcf5-410d-9b5b-dcd9053e7bdc.jpg)
 
+  <h3 align="Center">
+ 🚀 Tecnologias
+</h3>
+
+  
 <h3>Projeto desenvolvido com:
 
 -  HTML ✔️
